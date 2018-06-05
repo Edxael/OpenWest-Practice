@@ -1,3 +1,3 @@
 # Notes while dev
 
-dev info.
+dev info...
