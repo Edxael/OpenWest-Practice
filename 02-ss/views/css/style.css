@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(224, 192, 255);
+    text-align: center;
+}
+
+
+.menu-container{
+    /* margin-top: 20px; */
+    display: flex;
+    justify-content: center;
+}
+
+.menu-button{
+    padding: 3px;
+    border: 2px solid black;
+    margin: 1px;
+    background-color: rgb(192, 253, 253);
+    width: 100px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.menu-button:hover{
+    background-color: rgb(101, 253, 253);
+}
+
+.bar1{
+    height: 7px;
+    width: 50vw;
+    background-color: white;
+}
