@@ -14,6 +14,7 @@ app.use(express.static(__dirname + '/views'))
 // ===[ Routes ]===============================================
 app.get('/', (req, res) => {
     res.render('pages/00-Home');
+    res.send('hello world');
 })
 
 app.get('/1', (req, res) => {
