@@ -1,0 +1,43 @@
+/* ---[ General ]------------------------------------------------ */
+body{
+    background-color: rgb(191, 169, 216);
+    text-align: center;
+}
+
+
+
+/* ---[ Parts ]--------------------------------------------------- */
+#menu{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.button-menu{
+    border: 1px solid black;
+    margin: 1px;
+    padding: 3px;
+    width: 100px;
+    background-color: rgb(126, 186, 255);
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.button-menu:hover{
+    background-color: rgb(187, 219, 255);
+
+}
+
+.bar1 {
+    height: 7px;
+    width: 50vw;
+    background-color: white;
+}
+
+
+
+/* ---[ Pages ]--------------------------------------------------- */
+.bor1{
+    border: 3px solid white;
+}
