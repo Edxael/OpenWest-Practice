@@ -32,3 +32,8 @@ body{
     width: 50vw;
     background-color: white;
 }
+
+/* ---[ Pages ]--------------------------------------------------- */
+.bor1{
+    border: 3px solid white;
+}
