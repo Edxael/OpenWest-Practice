@@ -9,6 +9,4 @@ https://expressjs.com/en/api.html
 
 List of things that I neen before my presentation:
 
-Preparing pages. 
-
-
+Preparing pages.....
